@@ -1,0 +1,6 @@
+{ recordsets: [],
+  recordset: undefined,
+  output: {},
+  rowsAffected: [ 1 ] }
+%刘备%
+{"recordsets":[[{"name":"刘备        ","age":"53839     ","sex":"男         ","nationality":"三国        "}]],"recordset":[{"name":"刘备        ","age":"53839     ","sex":"男         ","nationality":"三国        "}],"output":{},"rowsAffected":[1]}

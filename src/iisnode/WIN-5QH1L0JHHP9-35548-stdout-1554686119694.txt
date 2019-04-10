@@ -1,0 +1,2 @@
+{ '0': '{"name":"hi","age":"33","sex":"女","nationality":"美国"}' }
+{ name: '1', age: '2', sex: '3', nationality: '4' }

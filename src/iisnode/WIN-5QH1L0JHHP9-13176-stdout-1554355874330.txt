@@ -1,0 +1,52 @@
+{ recordsets: [],
+  recordset: undefined,
+  output: {},
+  rowsAffected: [ 1 ] }
+王%
+{"recordsets":[[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[2]}
+王%
+{"recordsets":[[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[2]}
+王%
+{"recordsets":[[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[2]}
+小%
+{"recordsets":[[{"name":"小美女       ","age":"不告诉你      ","sex":"你猜        ","nationality":"家乡        "},{"name":"小小美女      ","age":"22        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"小美女       ","age":"不告诉你      ","sex":"你猜        ","nationality":"家乡        "},{"name":"小小美女      ","age":"22        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[2]}
+五%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+五%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+爱%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%爱%
+{"recordsets":[[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[3]}
+%爱%
+{"recordsets":[[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[3]}
+%可%
+{"recordsets":[[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}]],"recordset":[{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"可爱多       ","age":"永远16      ","sex":"你猜        ","nationality":"中国        "},{"name":"王可爱       ","age":"12        ","sex":"女         ","nationality":"中国        "}],"output":{},"rowsAffected":[3]}
+%五%
+{"recordsets":[[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "}]],"recordset":[{"name":"王小五       ","age":"56        ","sex":"男         ","nationality":"中国        "}],"output":{},"rowsAffected":[1]}
+%飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%飞飞%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%飞飞%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%飞飞%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%fei%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%飞飞%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%飞飞%
+{"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[0]}
+%飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%张飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%张飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%张飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
+%张飞%
+{"recordsets":[[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}]],"recordset":[{"name":"张飞        ","age":"7583745   ","sex":"男         ","nationality":"zhongguo  "}],"output":{},"rowsAffected":[1]}
